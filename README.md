@@ -1,0 +1,1 @@
+Unity object destroyer for VR. When holding whatevery you set as the `Collider` you can destroy any object. This code is for anyone to use on any object this code was created by me and not AI. Desighed for VR games and Unity.
